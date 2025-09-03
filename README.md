@@ -1,2 +1,2 @@
-﻿# WorkSpaceAlgorithmsCS67
+﻿# WorkSpace
 # Workspace for collecting learning Algorithms from my university
